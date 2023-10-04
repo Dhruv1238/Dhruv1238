@@ -1,4 +1,19 @@
 ### Hi there 👋
+## About Me
+Hi, I'm Octocat. I'm a programming expert with a passion for open source.
+
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+</details>
+
+---
+> "In code we trust."
 
 <!--
 **Dhruv1238/Dhruv1238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
