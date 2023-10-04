@@ -1,4 +1,3 @@
-### Hi there 👋
 ## About Me
 Hi, I'm Dhruv. I love web-dev and currenly working/experimenting with blockchain.
 
