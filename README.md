@@ -1,19 +1,25 @@
 ### Hi there 👋
 ## About Me
-Hi, I'm Octocat. I'm a programming expert with a passion for open source.
+Hi, I'm Dhruv. I love web-dev and currenly working/experimenting with blockchain.
 
 <details>
-<summary>My top languages</summary>
+<summary>I am gratefull to have these in my life</summary>
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+|     1| C++   |
+|     2| Javascript|
+|     3| Python       |
+|     4| TypeScript       |
+|     5| SQL       |
+|     6| HTML       |
+|     7| CSS      |
 </details>
 
 ---
-> "In code we trust."
+> "Code Blooded"
+
+[![An image of @dhruv1238's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruv1238)](https://holopin.io/@dhruv1238)
 
 <!--
 **Dhruv1238/Dhruv1238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
