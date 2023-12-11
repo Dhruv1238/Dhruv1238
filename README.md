@@ -2,7 +2,7 @@
 Hello There!!, I'm Dhruv. I love web-dev and currenly working/experimenting with blockchain.
 
 <details>
-<summary>I am gratefull to have these in my life</summary>
+<summary>I am Proficient with:</summary>
 
 | Rank | Languages |
 |-----:|-----------|
