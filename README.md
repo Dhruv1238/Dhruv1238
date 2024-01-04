@@ -1,5 +1,5 @@
 ## About Me
-Hello There!!, I'm Dhruv. I love web-dev and currenly working/experimenting with blockchain.
+Hello There!!, I'm Dhruv. I love web-dev and currenly working/experimenting with WEB-3.
 
 <details>
 <summary>I am Proficient with:</summary>
