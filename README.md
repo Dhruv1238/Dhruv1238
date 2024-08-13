@@ -1,18 +1,19 @@
 ## About Me
 Hello There!!, I'm Dhruv. I love web-dev and currenly working/experimenting with WEB-3.
-
+- [My Portfolio!](https://dhruv1238.vercel.app)
 <details>
 <summary>I am Proficient with:</summary>
 
 | Rank | Languages |
 |-----:|-----------|
 |     1| C++   |
-|     2| Javascript|
-|     3| Python       |
-|     4| TypeScript       |
-|     5| SQL       |
-|     6| HTML       |
-|     7| CSS      |
+|     2| GoLang|
+|     3| Javascript|
+|     4| Python       |
+|     5| TypeScript       |
+|     6| SQL       |
+|     7| HTML       |
+|     8| CSS      |
 </details>
 
 ---
