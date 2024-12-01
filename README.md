@@ -1,5 +1,5 @@
 ## About Me
-Hello There!!, I'm Dhruv. I love web-dev and currenly working/experimenting with WEB-3.
+Hello There!!, I'm Dhruv. I love dev and currenly working/experimenting with WEB-3.
 - [My Portfolio!](https://dhruv1238.vercel.app)
 <details>
 <summary>I am Proficient with:</summary>
